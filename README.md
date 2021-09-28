@@ -18,7 +18,7 @@
 <details>
   <summary>📊 Stats</summary>
 
-  <img align="center" alt="xImpulso's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xImpulso&show_icons=true&theme=discord_old_blurple&hide_border=true" />
+  <img align="center" alt="xImpulso's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xImpulso&show_icons=true&theme=discord_old_blurple&hide_border=true" />
 
 </details>
 
