@@ -6,17 +6,19 @@
 ## 📫 How to reach me:
 
 [<img align="left" alt="xImpulso | Discord" width="22px" src="img/Discord.png" />][discord]
-[<img align="left" alt="xImpulso | Github" width="22px" src="img/Github.png" />][github]
+[<img align="left" alt="xImpulso | GitHub" width="22px" src="img/Github.png" />][github]
 [<img align="left" alt="xImpulso | Twitter" width="22px" src="img/Twitter.png" />][twitter]
 [<img align="left" alt="xImpulso | Email" width="22px" src="img/Email.png" />][email]
+
+<br />
+<br />
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>📊 Stats</summary>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+  <img align="center" alt="xImpulso's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=xImpulso&show_icons=true&theme=discord_old_blurple&hide_border=true" />
 
 </details>
 
