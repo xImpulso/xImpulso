@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello there, I'm Daniel - aka xImpulso 👋
 
-<!--
-**xImpulso/xImpulso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm currently working in [Minercy Network](https://github.com/Minercy-Network).
+- 🌱 I’m currently learning C++, CSS3, HTML5, JavaScript, PHP & Python.
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="xImpulso | Discord" width="22px" src="img/Discord.png" />][discord]
+[<img align="left" alt="xImpulso | Github" width="22px" src="img/Github.png" />][github]
+[<img align="left" alt="xImpulso | Twitter" width="22px" src="img/Twitter.png" />][twitter]
+[<img align="left" alt="xImpulso | Email" width="22px" src="img/Email.png" />][email]
+
+<!-- LINKS -->
+
+[discord]: https://discord.com/users/232166211910107136
+[email]: mailto:xImpulso@minercy.net
+[github]: https://github.com/xImpulso
+[twitter]: https://twitter.com/xImpulso_
