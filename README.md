@@ -10,6 +10,16 @@
 [<img align="left" alt="xImpulso | Twitter" width="22px" src="img/Twitter.png" />][twitter]
 [<img align="left" alt="xImpulso | Email" width="22px" src="img/Email.png" />][email]
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 <!-- LINKS -->
 
 [discord]: https://discord.com/users/232166211910107136
